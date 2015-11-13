@@ -1,17 +1,17 @@
 # Project5-Linux-Server-Configuration
 
-Overview
+#Overview
 
 This project takes a baseline installation of a Linux distribution on a virtual machine and prepares it to host a web application by installing updates, securing it from a number of attack vectors, and installing/configuring web and database servers.
 
-HTTP
+#HTTP
 
 The web application, The Sports Catalog, is hosted via HTTP at the server's IP address: 52.33.235.211.
 
 http://52.33.235.211/
 
 
-SSH
+#SSH
 
 To access the server, SSH into the server by executing the command:
 
