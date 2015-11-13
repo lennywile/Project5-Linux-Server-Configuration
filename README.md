@@ -20,7 +20,6 @@ ssh -p 2200 -i [RSA_FILE] grader@52.33.235.211
 Ensure the RSA file is included and enter the password provided.
 
 ##Required Changes Made
-Changes made:
 1.  installed apache, postgresSQL, mod_wsgi, git, and all required files for catalog app
 2.  configured firewall to block all ports other than 2200, 123, and 80
 3.  set timezone to UTC
